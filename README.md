@@ -31,4 +31,4 @@ rosrun one_way_communication talker
 rosrun one_way_communication listener
 ```
 
-![Run_gif](./one_way_communication.gif){: width="100" height="100"}
+![Run_gif](./one_way_communication.gif)
